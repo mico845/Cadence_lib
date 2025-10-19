@@ -1,0 +1,11 @@
+symbol/Spe/*.log,*
+symbol/Spe/*.log
+symbol/Spe/*.rpt
+symbol/Spe/*.rpt,*
+symbol/Spe/*.tag
+
+fsm/*.log
+fsm/*.log,*
+fsm/*.rpt
+fsm/*.rpt,*
+fsm/allegro.jrl
