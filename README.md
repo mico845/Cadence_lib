@@ -12,6 +12,4 @@
           |- Spe                下载/自建的某芯片封装
 ```
 
-目前已有的封装
-[封装](symbol\list_footprint.md)
-
+[目前已有的封装](https://github.com/mico845/Cadence_lib/blob/main/symbol/list_footprint.md)

@@ -18,12 +18,30 @@ Source: HI3516AV300DMEBLITE4L_VER_A sc1206
 `CAPMP3P7X2P8_2P1N_KEM`
 Source: Ultra Librarian
 
+## RES
+
+`RES0603` 
+Source: HI3516AV300DMEBLITE4L_VER_A sr0603
+
+`RES0805` 
+Source: 淘宝库
+
+`RESCA0603x4`
+Source: Ricky
+
+## FB
+
+`FB0805` 
+Source: 淘宝库
+
 ## BGA
 
 `BGA272_TMS320C6713BGDP`
 Source: Ultra Librarian
 
 ## Connector
+
+### HDR 2.54mm
 
 `CON_HDR254DIP_2X1MM`
 Source: Ricky
@@ -38,6 +56,11 @@ Source: Ricky
 Source: Ricky
 
 `CON_MPC4001B_DIN422MM`
+Source: Ricky
+
+### AUDIO 
+
+`AUDIO_SHOUHAN_PJ313D`
 Source: Ricky
 
 ## FIL
@@ -95,4 +118,13 @@ Source: Ricky
 
 `SOIC127P780X200_8NMM`
 Source: Ricky
+
+
+
+
+
+===
+---
+
+Source: Ricky 意味着自制封装，请酌情参考
 
