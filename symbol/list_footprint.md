@@ -58,6 +58,11 @@ Source: Ricky
 `CON_MPC4001B_DIN422MM`
 Source: Ricky
 
+### HOLE
+
+`HOLE_M25`
+Source: HI3516AV300DMEBLITE4L_VER_A pth2_2mmcir4_2
+
 ### AUDIO 
 
 `AUDIO_SHOUHAN_PJ313D`
